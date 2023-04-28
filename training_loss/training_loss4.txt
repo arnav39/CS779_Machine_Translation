@@ -1,0 +1,17 @@
+{'epoch': 0, 'max_epochs': 15, 'epoch_loss': 1.4825825304031373}
+{'epoch': 1, 'max_epochs': 15, 'epoch_loss': 1.0526117477280752}
+{'epoch': 2, 'max_epochs': 15, 'epoch_loss': 0.9051851633548736}
+{'epoch': 3, 'max_epochs': 15, 'epoch_loss': 0.8219095554964883}
+{'epoch': 4, 'max_epochs': 15, 'epoch_loss': 0.7668003801618304}
+{'epoch': 5, 'max_epochs': 15, 'epoch_loss': 0.7267734117303576}
+{'epoch': 0, 'max_epochs': 15, 'epoch_loss': 0.7220685230663845}
+{'epoch': 1, 'max_epochs': 15, 'epoch_loss': 0.6851691072191511}
+{'epoch': 2, 'max_epochs': 15, 'epoch_loss': 0.6600060961178371}
+{'epoch': 3, 'max_epochs': 15, 'epoch_loss': 0.6396895704678127}
+{'epoch': 4, 'max_epochs': 15, 'epoch_loss': 0.6231193302222661}
+{'epoch': 5, 'max_epochs': 15, 'epoch_loss': 0.6090138036182948}
+{'epoch': 6, 'max_epochs': 15, 'epoch_loss': 0.5962072907243456}
+{'epoch': 7, 'max_epochs': 15, 'epoch_loss': 0.5853294836044312}
+{'epoch': 8, 'max_epochs': 15, 'epoch_loss': 0.574965651845932}
+{'epoch': 9, 'max_epochs': 15, 'epoch_loss': 0.5657999747821263}
+{'epoch': 10, 'max_epochs': 15, 'epoch_loss': 0.5571784041540964}
